@@ -1,0 +1,11 @@
+*.bin
+*.mp4
+*.o
+*.a
+*.out
+*.swp
+*.so
+*/__pycache__/*
+common/__pycache__/*
+models/*
+logs/*
